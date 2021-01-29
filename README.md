@@ -106,7 +106,7 @@ sys_permission菜单权限表
 	* 功能
 	* 有哪些模块
 	* 数据库哪几张表
-## 2）自己仍需要搞清楚的点及亮点
+## 3）自己仍需要搞清楚的点及亮点
 * shrio的认证详细流程
 	* 找博客介绍
 	* 看课程介绍shiro的pdf
@@ -115,20 +115,21 @@ sys_permission菜单权限表
 * 前端vue怎么权限控制
 	* 找博客
 * redis
-	* 看课程介绍shiro的pdf
+	* 找博客
+	* 看课程介绍redis的pdf
 	* 项目中的使用
 * mysql
 	* 涉及哪些连表查询
-	* 调优	
+	* 调优(博客)	
 * 接口的输出结果做了一个Result封装（接口规范）
 	* 回顾pdf
 * 对错误的代码做了一个CodeMsg的封装（错误代码规范）
 	* 回顾pdf
-## 3）遇到的困难
+## 4）遇到的困难
 * 117，118
 * 没想好
 
-## 4）参考
+## 5）参考
 * 三份简历
 * [类似博客补充维提](https://blog.csdn.net/weixin_44417042/article/details/106858739)
 * [亮点参考](https://blog.csdn.net/qq_36281031/article/details/104699492?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522161183251316780265464873%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=161183251316780265464873&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_v29-1-104699492.pc_v2_rank_blog_default&utm_term=%E9%A1%B9%E7%9B%AE&spm=1018.2226.3001.4450)
